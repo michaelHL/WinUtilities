@@ -1,2 +1,3 @@
 # WinUtilities
-collections of programs in windows
+
+collection of programs in windows
